@@ -1,2 +1,2 @@
 # ejemploEstructuraDatos
-this is my firts proyect in github, here  I upload a small example of how to use the data structure: queue
+este es mi primer proyecto en github, aquí subo un pequeño ejemplo de cómo usar la estructura de datos: cola
